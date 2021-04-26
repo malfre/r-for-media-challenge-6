@@ -4,6 +4,8 @@ library(readr)
 library(stringr)
 library(purrr)
 
+# Stelle den mitgegebenen Plot nach. Alle Daten dafür habt Ihr ja vorliegen!
+
 # load df with all palamentarians  in the German BT
 # bundestag_2019 <- …
 
